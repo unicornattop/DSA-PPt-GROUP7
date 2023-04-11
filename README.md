@@ -13,4 +13,4 @@ Note: the animation will only work in the newer versions of MicroSoft Power Poin
                  
 /?
 
-git by adarsh chauhan
+git by Aadarsh Chauhan
